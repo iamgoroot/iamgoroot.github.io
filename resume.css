@@ -129,7 +129,7 @@ a#pdf:hover {
 .job {
     position: relative;
     margin-bottom: 1em;
-    padding-bottom: 1em;
+    padding-bottom: 2em;
     border-bottom: 1px solid #ccc
 }
 
