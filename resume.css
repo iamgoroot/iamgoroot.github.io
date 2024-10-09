@@ -18,7 +18,7 @@ body {
 
 #hd {
     margin: 2.5em 0 3em 0;
-    padding-bottom: 1.5em;
+    padding-bottom: 1em;
     border-bottom: 1px solid #ccc
 }
 
@@ -27,20 +27,18 @@ body {
     letter-spacing: 2px
 }
 
-#bd,
-#ft {
-    margin-bottom: 2em
+#bd {
+   padding: 0px;
 }
 
 #ft {
-    padding: 1em 0 5em 0;
+    padding: 1em 0 4em 0;
     font-size: 92%;
     border-top: 1px solid #ccc;
     text-align: center
 }
 
 #ft p {
-    margin-bottom: 0;
     text-align: center
 }
 
@@ -68,13 +66,14 @@ h4 {
 
 h5 {
     display: block;
-    font-weight: 700
+    font-weight: 700;
+    margin-bottom: 0.2em;
 }
 
 p {
     font-size: 100%;
     line-height: 18px;
-    padding-right: 3em
+    padding-right: 2em
 }
 
 a {
@@ -96,7 +95,7 @@ li {
 
 p.enlarge {
     font-size: 144%;
-    padding-right: 6.5em;
+    padding-right: 2em;
     line-height: 24px
 }
 
@@ -153,9 +152,9 @@ a#pdf:hover {
 }
 
 .talent h2 {
-    margin-bottom: 6px
+    margin-bottom: 5px
 }
 
 .yui-gf .yui-u {
-    width: 80.2%
+    width: 81.0%
 }
