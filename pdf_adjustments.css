@@ -1,0 +1,11 @@
+a#pdf {
+    opacity: 0;
+}
+
+
+#inner {
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
